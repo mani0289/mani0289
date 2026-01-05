@@ -2,23 +2,6 @@
 
 **About Me**
 
-Experienced in architecting scalable cloud data solutions and leading complex legacy migrations (Teradata to Snowflake).
-
-Currently engineering high-volume regulatory pipelines at Elevance Health.
-
-Expertise in AWS (Glue, Lambda), Snowflake, and PySpark.
-
-Focused on bridging technical execution with strategic business goals like cost optimization and regulatory compliance.
-
-
-**Tech Stack & Skills**
-Cloud: AWS (Glue, Lambda, S3, Redshift, Athena), GCP.
-
-Data Warehousing: Snowflake, Teradata, SQL Server.
-
-Processing & Languages: PySpark, Python, SQL, Java, Scala.
-
-
 🔭 I’m currently working on: Engineering scalable Snowflake and AWS data architectures at Elevance Health, focusing on high-volume legacy migrations and CMS regulatory data pipelines.
 
 🌱 I’m currently learning: Advanced Data Governance frameworks and further mastering GCP cloud data services to complement my Azure and AWS expertise.
