@@ -1,4 +1,4 @@
-# Hi, I'm Manikanta Bandari 👋 ## Senior Data Engineer | Cloud Architect | Big Data Specialist
+# Hi, I'm Manikanta Bandari 👋 | Senior Data Engineer | Cloud Architect | Big Data Specialist
 
 **About Me**
 
